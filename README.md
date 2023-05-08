@@ -1,2 +1,3 @@
-# awesome_tableau
-list of tableau projects
+<p align="center">
+<img src="https://github.com/theidari/awesome_tableau/blob/main/assets/at_header.png" width=400px>
+</p>
