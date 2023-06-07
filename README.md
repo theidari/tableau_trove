@@ -1,3 +1,3 @@
 <p align="center">
-<img src="https://github.com/theidari/awesome_tableau/blob/main/assets/at_header.png" width=400px>
+<img src="https://github.com/theidari/tableau_trove/blob/main/assets/tt_header.png" width=400px>
 </p>
